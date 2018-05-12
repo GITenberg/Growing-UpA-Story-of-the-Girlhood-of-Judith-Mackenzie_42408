@@ -1,0 +1,34 @@
+_repo: Growing-UpA-Story-of-the-Girlhood-of-Judith-Mackenzie_42408
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42408-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Conklin, Nathaniel, Mrs.
+    aliases:
+    - Conklin, Jennie M. D. (Jennie Maria Drinkwater)
+    - Conklin, Jennie Maria Drinkwater
+    - Drinkwater, Jennie M.
+    - Conklin, Mrs. Nathaniel
+    birthdate: 1841
+    deathdate: 1900
+    gutenberg_agent_id: '3467'
+    url: http://www.gutenberg.org/2009/agents/3467
+description: ''
+gutenberg_issued: '2013-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42408'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Girls -- Fiction'
+title: 'Growing Up: A Story of the Girlhood of Judith Mackenzie'
+url: http://www.gutenberg.org/ebooks/42408
