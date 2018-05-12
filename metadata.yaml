@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '3467'
     url: http://www.gutenberg.org/2009/agents/3467
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42408#Growing-UpA-Story-of-the-Girlhood-of-Judith-Mackenzie
 gutenberg_issued: '2013-03-24'
 gutenberg_type: Text
 identifiers:
